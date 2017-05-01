@@ -1,0 +1,7 @@
+baseURL = "https://blog.santing.net/"
+languageCode = "en-us"
+title = "blog.santing.net"
+theme = "liquorice"
+
+[params]
+    author = "santing.net"
