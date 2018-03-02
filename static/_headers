@@ -1,0 +1,8 @@
+# All paths
+/*
+ Strict-Transport-Security: max-age=15768000; includeSubdomains; preload
+ X-Frame-Options: DENY
+ X-Content-Type-Options: nosniff
+ X-XSS-Protection: 1; mode=block
+ Content-Security-Policy: default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'
+ Referrer-Policy: no-referrer
